@@ -7,5 +7,3 @@ The enemies are Cannon Lizards. They have an auto-roam feature and a sensing con
 All of the Player's and Enemies' abilities are implemented using the Gameplay Ability System.
 The goal of the game is to kill all 7 of the Cannon Lizards on the map.
 The default map should be 'Desert_A'.
-
-Unfortunatelly, I couldn't upload the game to github, due to git lfs limitations (I would have to pay)
